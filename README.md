@@ -3,9 +3,9 @@
   . I have completed my task with the help of Natural Language Processing techniques.
 <h2>Tools used:</h2>
 <h3>
-    R – 3.6.0
-    Anaconda Navigator – 1.9.7
-    Jupyter Notebook – 5.7.4
+  <ul><li>R – 3.6.0</li>
+    <li>Anaconda Navigator – 1.9.7</li>
+    <li>Jupyter Notebook – 5.7.4</li></ul>
   </h3>
 
 <h2>Libraries Used:</h2>
