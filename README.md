@@ -1,6 +1,6 @@
 # Restaurant-Review
 <h2>Task:</h2><h3> To categorize the review whether positive or negative.I have gathered the dataset from kaggle.com
-  . I have completed my task with the help of Natural Language Processing techniques.
+  . I have completed my task with the help of Natural Language Processing techniques and visualize the data using word cloud.
 <h2>Tools used:</h2>
 <h3>
   <ul><li>R – 3.6.0</li>
@@ -22,4 +22,4 @@
 <h3><ul><li>Random Forest Classification</li>
   <li>Decision Tree Classification</li>
   <li>Naive Bayes Classification</li></ul></h3>
-<h3>Best Classification model in this case comes out to be Random Forest with 74.5% accuracy.</h3>
+<h3>Best Classification model in this case comes out to be Random Forest with 79% accuracy.</h3>
